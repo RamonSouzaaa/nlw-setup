@@ -7,11 +7,13 @@ sempre tem algo a mais para se aprender.
 
 ![Capa NLW Setup](https://guiadeti.com.br/wp-content/uploads/2023/01/NWL-Setup-Rocketseat-1200-%C3%97-792-px-1024x676.png)
 
-## Projeto
+## Projeto 💻
 
 **Habit Tracker!** 
 
 Como sugestão de projeto foi desenvolvido um app para usar como assistente de controle de hábitos estudando fundamentos da programação e tecnologias 
 como HTML, CSS, JavaScript, Git e Github de maneira prática!
+
+[Visite o projeto](https://ramonsouzaaa.github.io/nlw-setup/)
 
 ![Imagem do projeto](https://github.com/RamonSouzaaa/nlw-setup/blob/main/assets/PROJETO.PNG)
